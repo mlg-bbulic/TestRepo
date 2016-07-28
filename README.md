@@ -1,2 +1,7 @@
 # TestRepo
 PUBELIC
+
+EZ
+PZ
+LM
+SQZ
